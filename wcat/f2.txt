@@ -1,0 +1,2 @@
+ hello new file f2
+ Are u allright?
