@@ -8,6 +8,8 @@ let Data = [];
 let findData = "";
 let replaceData = "";
 //
+//
+//
 for (let i of arguments) {
     
     if (i[0] == "-") {
